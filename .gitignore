@@ -1,0 +1,15 @@
+#exclude bin and obj
+WebApplications/MainApp/obj/*
+WebApplications/MainApp/bin/*
+#exclude log files
+WebApplications/MainApp/*.log
+#exclude forum obj and bin
+AgDBForumJitBit/aspnetforum/obj/*
+AgDBForumJitBit/aspnetforum/bin/*
+AgDBForumJitBit/aspnetforum/bin/*.dll
+#exclude AgDBForum
+AgDBForum/*
+#exclude solution file
+WebApplications/*.suo
+#ignore cache files
+*.cache
