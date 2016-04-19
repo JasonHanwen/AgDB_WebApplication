@@ -1,0 +1,13 @@
+(
+	[Year] bigint,
+	[MonthNum] bigint,
+	[DayOfMonthStart] bigint,
+	[DayofYearStart] bigint,
+	[DayofYearEnd] bigint,
+  	[AggLevel] bigint,
+	[CountyFIPS] bigint,
+	[StateFIPS] bigint,
+	[AREA] float,
+	[CLUID] bigint,
+	[Value] float,
+)
